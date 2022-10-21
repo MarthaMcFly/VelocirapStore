@@ -1,0 +1,40 @@
+body{
+    background-color: #5f47e9;
+}
+/* NAVbar */
+.navbar{
+    /* background-color: #ffce2f; */
+    background-color: #fdc32f;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#navbarNavDropdown{
+    justify-content: flex-end;
+}
+.navbar-brand{
+    font-family: 'Love Ya Like A Sister';
+    font-size: 30px;
+}
+
+/* Fuentes */
+ul li a {
+    font-size: 23px;
+}
+
+/* Footer */
+footer{
+    background-color: #fdc32f;
+}
+.titulo-footer h3{
+    text-align: center;
+    font-family: 'Love Ya Like A Sister';
+}
+footer h6 {
+    text-align: center;
+    text-decoration: none;
+}
+#contacto{
+    text-decoration: none;
+}

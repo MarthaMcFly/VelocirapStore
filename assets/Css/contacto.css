@@ -1,0 +1,37 @@
+/* texto izquierda */
+h1, h3,p{
+    text-align: center;
+    padding: 30px;
+}
+.formulario{
+    background-image: url(https://i.pinimg.com/736x/5f/68/71/5f687182d81ec980d4cf654db30e3626.jpg);
+}
+p{
+    font-size: 1.5rem;
+}
+
+
+/* Formulario */
+
+.formulario{
+    margin: 50px auto;
+    width: 400px;
+    padding: 30px;
+    background: rgba(0,0,0,.3);
+    border-radius: 10px;
+}
+.formulario .elemento input{
+    width: 100%;
+    padding: 10px 0;
+    color: black;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: none;
+}
+.formulario .elemento input[type="submit"]{
+    background-color: rgb(103, 192, 162);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 15px;
+    margin-top: 20px;
+}
